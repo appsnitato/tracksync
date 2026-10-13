@@ -12,7 +12,9 @@ Made by [appsnitato.com](https://www.appsnitato.com).
 
 ## Download
 
-Get the latest `.dmg` from [Releases](https://github.com/appsnitato/tracksync/releases/latest).
+**[Download TrackSync 0.2.0 (.dmg)](https://github.com/appsnitato/tracksync/releases/download/v0.2.0/TrackSync-0.2.0-arm64.dmg)** for Apple Silicon Macs.
+
+Open the `.dmg` and drag TrackSync to Applications. Older versions and release notes are on [Releases](https://github.com/appsnitato/tracksync/releases).
 
 ## Which players work
 
