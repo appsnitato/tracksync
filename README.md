@@ -1,3 +1,5 @@
+<img src="assets/icon.png" width="128" height="128" alt="TrackSync app icon">
+
 # TrackSync
 
 A macOS app for putting music on MP3 players that show up as a USB drive.
