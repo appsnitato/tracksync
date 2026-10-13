@@ -6,4 +6,4 @@ This repository hosts release binaries only. Source code is not public.
 
 ## Download
 
-Get the latest `.dmg` from [Releases](https://github.com/sinositato/tracksync/releases/latest).
+Get the latest `.dmg` from [Releases](https://github.com/appsnitato/tracksync/releases/latest).
