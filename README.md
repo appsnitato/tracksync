@@ -4,6 +4,8 @@ A macOS app for putting music on MP3 players that show up as a USB drive.
 
 TrackSync started as a better way to load the Shokz OpenSwim Pro. It now works with any player that mounts in Finder as a mass-storage drive: keep a library of source folders on your Mac, browse the player's folders side by side, and copy albums, tracks and reusable mixes across.
 
+![TrackSync: source library on the left, folder contents in the middle, the player's folders on the right](assets/screenshot.png)
+
 This repository hosts release binaries only. Source code is not public.
 
 ## Download
